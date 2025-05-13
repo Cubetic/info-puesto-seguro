@@ -13,7 +13,7 @@ jobs:
 
       - name: Zip files
         run: |
-          zip -r Información-del-equipo.zip \
+          zip -r Informacion-del-equipo.zip \
             config/Get-PCInfo.ps1 \
             Informacion-del-equipo.bat \
             README.md
