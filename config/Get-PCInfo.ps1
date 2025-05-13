@@ -36,7 +36,7 @@ if ([string]::IsNullOrWhiteSpace($oemKey)) {
 
     if ($dpid) {
         $Chars     = 'BCDFGHJKMPQRTVWXY2346789'
-        $KeyOffset = 52
+        $DigitalProductIdKeyOffset = 52 # Offset for the DigitalProductId key in the byte array
         [byte[]]$bytes = $dpid
 
         # Ajuste para Windows 8+
