@@ -2,6 +2,8 @@
 title: Puesto seguro Kit Digital | Cubetic
 ---
 
+![Localizar archivo ZIP](images/cubetic-kit-digital.png)
+
 # 📥 Guía rápida para utilizar la herramienta
 
 [![Descargar ZIP](https://img.shields.io/badge/Descargar-ZIP-blue)](https://github.com/Cubetic/info-puesto-seguro/releases/latest/download/info-puesto-seguro.zip)
