@@ -48,7 +48,7 @@ if ([string]::IsNullOrWhiteSpace($oemKey)) {
         for ($i = 24; $i -ge 0; $i--) {
             $current = 0
             for ($j = 14; $j -ge 0; $j--) {
-                $current = $current * 256 -bxor $bytes[$j + $KeyOffset]
+                $current = $current * 256 + $bytes[$j + $KeyOffset]
                 $bytes[$j + $KeyOffset] = [math]::Floor($current / 24)
                 $current = $current % 24
             }
