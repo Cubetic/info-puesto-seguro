@@ -5,7 +5,7 @@ Herramienta para obtener Serial de BIOS, Clave OEM y Versión de Windows.
 ## Descargar
 
 Siempre baja la última versión desde:
-https://github.com/cubetic/info-puesto-seguro/releases/latest/download/Información-del-equipo.zip
+https://github.com/cubetic/info-puesto-seguro/releases/latest/download/info-puesto-seguro.zip
 
 ## Uso
 
