@@ -29,6 +29,6 @@ jobs:
       - name: Upload ZIP
         uses: softprops/action-gh-release@v1
         with:
-          files: Información-del-equipo.zip
+          files: info-puesto-seguro.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
