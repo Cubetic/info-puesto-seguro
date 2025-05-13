@@ -1,0 +1,34 @@
+name: Build and Release ZIP
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Zip files
+        run: |
+          zip -r Información-del-equipo.zip \
+            config/Get-PCInfo.ps1 \
+            Informacion-del-equipo.bat \
+            README.md
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ github.ref_name }}
+          name: Release ${{ github.ref_name }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload ZIP
+        uses: softprops/action-gh-release@v1
+        with:
+          files: Información-del-equipo.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
