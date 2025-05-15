@@ -78,4 +78,4 @@ Si encuentras algún problema en cualquier paso, contacta con el equipo de TI re
 ### Cubetic Consultores
 
 * 📞 953 79 19 88
-* 📩 [info@cubetic.com](mailto:info@cubetic.com)
+* 📩 [francisco.ruiz@cubetic.com](mailto:francisco.ruiz@cubetic.com)
