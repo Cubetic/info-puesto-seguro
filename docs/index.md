@@ -74,6 +74,8 @@ Si encuentras algún problema en cualquier paso, contacta con el equipo de TI re
 ### Cubetic Consultores
 
 * 📞 953 79 19 88
+* 📞 Movil 634 670 385
 * 📩 [nico.araoz@cubetic.com](mailto:nico.araoz@cubetic.com)
+
 
 
