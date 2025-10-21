@@ -63,6 +63,8 @@ Sigue estos pasos sencillos para descargar, ejecutar y enviar la información de
 
 2. Envia un WhatsApp al numero [634670385](https://wa.me/34634670385)
 
+3. Tambien puede enviarlo por correo a la [nico.araoz@cubetic.com](mailto:nico.araoz@cubetic.com)
+
 ---
 
 ## Soporte y dudas
@@ -72,5 +74,6 @@ Si encuentras algún problema en cualquier paso, contacta con el equipo de TI re
 ### Cubetic Consultores
 
 * 📞 953 79 19 88
-* 📩 [francisco.ruiz@cubetic.com](mailto:francisco.ruiz@cubetic.com)
+* 📩 [nico.araoz@cubetic.com](mailto:nico.araoz@cubetic.com)
+
 
