@@ -61,13 +61,7 @@ Sigue estos pasos sencillos para descargar, ejecutar y enviar la información de
 
 1. Con tu móvil o cámara, haz una **foto** de la pantalla asegurándote de que se vea la ventana completa con los datos.
 
-2. Abre el formulario de Google en el siguiente enlace y rellena los campos:
-
-    [![Código QR Formulario](images/qr_formulario.png)](https://forms.gle/JxxWWzCNE8BLf5tP7)
-   
-   👉 [Formulario para enviar la foto](https://forms.gle/JxxWWzCNE8BLf5tP7)
-
-3. Rellena el formulario adjunta la foto y pulsa **Enviar**.
+2. Envia un WhatsApp al numero [634670385](https://wa.me/34634670385)
 
 ---
 
@@ -79,3 +73,4 @@ Si encuentras algún problema en cualquier paso, contacta con el equipo de TI re
 
 * 📞 953 79 19 88
 * 📩 [francisco.ruiz@cubetic.com](mailto:francisco.ruiz@cubetic.com)
+
